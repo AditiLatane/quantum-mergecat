@@ -6,7 +6,7 @@ Quantum Mergecat is an original futuristic GitHub Octocat concept inspired by Gi
 
 The artwork imagines code as a living universe where repositories behave like galaxies, commits become stars, and branches merge across timelines to create something larger together.
 
-![]()
+![](https://github.com/AditiLatane/quantum-mergecat/blob/main/4426414a-4f97-4b40-839d-ca93b8874884.png)
 ---
 
 ## Concept
